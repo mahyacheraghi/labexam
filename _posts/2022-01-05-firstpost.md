@@ -1,20 +1,24 @@
 ---
 layout: post
-title: first post
+title: Computer Lab exam post
 categories: [content, demo]
 ---
-##these are my best memories I had during this semaster:
 
--met greeat professors
--visited university
--my birthday
+## these are my best memories I had during this semaster:
 
-##and these are the worst memories i had during this semaster:
+- met greeat professors
+- visited university
+- my birthday
 
--I got covid 19
--I didn't complete my driving lessons
--I didn't do my best try to study more
+## and these are the worst memories i had during this semaster:
 
-- url: /assets/images/mydesk.jpeg
-    image_path: /assets/images/mydesk.jpeg
-    alt: "my desk image "
+- I got covid 19
+- I didn't complete my driving lessons
+- I didn't do my best try to study more
+
+
+
+
+![alt text](../assets/images/mydesk.jpeg "my desk Picture")
+
+---
