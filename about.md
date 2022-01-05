@@ -4,6 +4,8 @@ title: About
 permalink: /about
 ---
 
-Hi, Write an awesome description about your blog here.  
-Feel free to make it a bit more interesting by adding a picture or two.  
-Only limit here is your creativity and imagination. Unleash them with full force.  
+##Hi
+I'm Mahya Cheraghi.
+I'm a computer enginnering student at IUST.I'm really into Islamic studies,listening to podcast/music,watching YouTube,cooking,coding,and anythig about outer space.
+I currently live in Tehran,Iran.
+You can contact me through [this email](mahya_cheraghi@iust.ac.ir) .
